@@ -1,4 +1,4 @@
-# Machine-Learning-para-predicci-n-de-Jpy-Usd
+# Machine-Learning-para-predicción-de-Jpy-Usd
 
 **El problema que se intenta resolver.**
 Los precios de las divisas pueden ser muy impredecibles, este sistema busca fácilitar la predicción de los mismos.
