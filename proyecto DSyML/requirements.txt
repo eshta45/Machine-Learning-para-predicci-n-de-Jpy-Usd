@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+openpyxl
+scikit-learn
+scipy
+jupyter
+#kaggle
+seaborn
